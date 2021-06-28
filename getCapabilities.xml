@@ -605,6 +605,11 @@
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
 			<CustomLayer>
+				<Name>GH:haldimand_county_lable</Name>
+				<Title>haldimand_county_lable</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
 				<Name>GH:new_york_state_lable</Name>
 				<Title>new_york_state_lable</Title>
 				<Operation type="csv">1</Operation>
@@ -612,16 +617,6 @@
 			<CustomLayer>
 				<Name>GH:lake_river_lables</Name>
 				<Title>lake_river_lables</Title>
-				<Operation type="csv">1</Operation>
-			</CustomLayer>
-			<CustomLayer>
-				<Name>GH:inland_lake_river_lables</Name>
-				<Title>inland_lake_river_lables</Title>
-				<Operation type="csv">1</Operation>
-			</CustomLayer>
-			<CustomLayer>
-				<Name>GH:haldimand_county_lable</Name>
-				<Title>haldimand_county_lable</Title>
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
 		</VendorSpecificCapabilities>
@@ -912,11 +907,11 @@
 				<Title>qew_406_hwy</Title>
 				<Abstract>GH:qew_406_hwy ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/BradMapx/Mappia_Example/releases/download/Map_Download/qew_406_hwy.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-79.62710182110675" miny="42.9074889" maxx="-78.91262900000008" maxy="43.214611487032506"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="-8864048.42806975" miny="5297901.298183674" maxx="-8784513.677438512" maxy="5344695.16315965"></BoundingBox>
+				<LatLonBoundingBox minx="-79.62710182110675" miny="42.9074889" maxx="-78.912629" maxy="43.21461148703257"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="-79.62710182110675" miny="42.9074889" maxx="-78.912629" maxy="43.21461148703257"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
@@ -932,11 +927,11 @@
 				<Title>niagara_region_roads_scrubed_merged</Title>
 				<Abstract>GH:niagara_region_roads_scrubed_merged ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/BradMapx/Mappia_Example/releases/download/Map_Download/niagara_region_roads_scrubed_merged.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-79.74838969999999" miny="42.8362696" maxx="-78.90903633155234" maxy="43.26097380000007"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="-8877550.132987542" miny="5287083.5230390625" maxx="-8784113.743416311" maxy="5351779.458933698"></BoundingBox>
+				<LatLonBoundingBox minx="-79.7483897" miny="42.8362696" maxx="-78.90903633155217" maxy="43.2609738"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="-79.7483897" miny="42.8362696" maxx="-78.90903633155217" maxy="43.2609738"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
@@ -952,11 +947,11 @@
 				<Title>niagara_municipal_boundaries_field</Title>
 				<Abstract>GH:niagara_municipal_boundaries_field ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/BradMapx/Mappia_Example/releases/download/Map_Download/niagara_municipal_boundaries_field.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-79.75395959537411" miny="42.83557278472006" maxx="-78.90812898857651" maxy="43.26244926764025"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="-8878170.17090436" miny="5286977.74269604" maxx="-8784012.738458287" maxy="5352005.003203267"></BoundingBox>
+				<LatLonBoundingBox minx="-79.75395959537411" miny="42.83557278472006" maxx="-78.90812898857651" maxy="43.262449267640264"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="-79.75395959537411" miny="42.83557278472006" maxx="-78.90812898857651" maxy="43.262449267640264"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
@@ -972,11 +967,11 @@
 				<Title>niagara_urban_bounderies</Title>
 				<Abstract>GH:niagara_urban_bounderies ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/BradMapx/Mappia_Example/releases/download/Map_Download/niagara_urban_bounderies.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-79.63089194380302" miny="42.85571498402463" maxx="-78.90824096123153" maxy="43.26237540027555"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="-8864470.342598343" miny="5290035.91916291" maxx="-8784025.203197248" maxy="5351993.711493336"></BoundingBox>
+				<LatLonBoundingBox minx="-79.63848732497011" miny="42.85249977711613" maxx="-78.89642767909723" maxy="43.270165659349075"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="611220.8310000002" miny="4746553.473999999" maxx="670739.0990000004" maxy="4791728.825999999"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
@@ -992,11 +987,11 @@
 				<Title>new_york_roads</Title>
 				<Abstract>GH:new_york_roads ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/BradMapx/Mappia_Example/releases/download/Map_Download/new_york_roads.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-79.07034799999998" miny="42.869007004568125" maxx="-78.87824899999987" maxy="43.2941247840774"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="-8802070.876206936" miny="5292054.5839783475" maxx="-8780686.51334504" maxy="5356848.333653357"></BoundingBox>
+				<LatLonBoundingBox minx="-79.070348" miny="42.869007004568125" maxx="-78.878249" maxy="43.294124784077326"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="-79.070348" miny="42.869007004568125" maxx="-78.878249" maxy="43.294124784077326"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
@@ -1012,7 +1007,7 @@
 				<Title>map_outside_boundery</Title>
 				<Abstract>GH:map_outside_boundery ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/BradMapx/Mappia_Example/releases/download/Map_Download/map_outside_boundery.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-79.76486398738379" miny="42.80103898472951" maxx="-78.87856905449439" maxy="43.29412468850478"></LatLonBoundingBox>
@@ -1032,11 +1027,11 @@
 				<Title>grand_river</Title>
 				<Abstract>GH:grand_river ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/BradMapx/Mappia_Example/releases/download/Map_Download/grand_river.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-79.76489647651418" miny="42.85724340000001" maxx="-79.54745874395147" maxy="42.93339320000001"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="-8879387.65894374" miny="5290268.018235378" maxx="-8855182.601275634" maxy="5301839.101774024"></BoundingBox>
+				<LatLonBoundingBox minx="-79.7648964765142" miny="42.8572434" maxx="-79.54745874395164" maxy="42.9333932"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="-79.7648964765142" miny="42.8572434" maxx="-79.54745874395164" maxy="42.9333932"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
@@ -1052,11 +1047,11 @@
 				<Title>all_water</Title>
 				<Abstract>GH:all_water ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/BradMapx/Mappia_Example/releases/download/Map_Download/all_water.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-79.76486398738378" miny="42.80103898472951" maxx="-78.87854247269959" maxy="43.29412468850477"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="-8879384.042270288" miny="5281736.8178392835" maxx="-8780719.182576556" maxy="5356848.319036081"></BoundingBox>
+				<LatLonBoundingBox minx="-79.76486398738379" miny="42.80103898472951" maxx="-78.8785424726999" maxy="43.294124688504816"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="-79.76486398738379" miny="42.80103898472951" maxx="-78.8785424726999" maxy="43.294124688504816"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
